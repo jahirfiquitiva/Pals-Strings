@@ -1,0 +1,78 @@
+<resources>
+    <string name="x_palette">%1$s Palette</string>
+
+    <string name="copy_color">Copy color</string>
+    <string name="color_copied">Color copied</string>
+    <string name="color_copied_x">Copied color: %1$s</string>
+
+    <string name="predefined_palettes">Predefined Palettes</string>
+    <string name="material_palette">Material Palette</string>
+    <string name="flat_ui_palette">Flat UI Palette</string>
+
+    <string name="dynamic_palettes">Dynamic Palettes</string>
+    <string name="from_wallpaper">From Wallpaper</string>
+
+    <string name="from_file">From Image</string>
+    <string name="pick_file">@string/pick_image</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="no_pictures_found">No pictures found</string>
+    <string name="pick_image_error">An unexpected error occurred while picking the image.</string>
+    <string name="file_manager_error">There is no suitable file manager installed.</string>
+
+    <string name="generator">Shades Generator</string>
+    <string name="generator_subtitle">From any color</string>
+
+    <string name="permission_denied">Access to storage permission has been denied</string>
+    <string name="permission_denied_completely">Access to storage permission has been denied. You will have to manually enable it in Settings.</string>
+    <string name="permission_request">Pals requires access to storage in order to be able to pick images to extract palettes from.</string>
+    <string name="allow">Allow</string>
+
+    <string name="camera_permission_denied">Access to camera permission has been denied</string>
+    <string name="camera_permission_denied_completely">Access to camera permission has been denied. You will have to manually enable it in Settings.</string>
+    <string name="camera_permission_request">Pals requires access to camera in order to be able to take photos and use them to extract palettes.</string>
+
+    <string name="coming_soon">Coming soon!</string>
+    <string name="unexpected_error">Unexpected error!</string>
+
+    <string name="about">About</string>
+    <string name="about_content">
+        <![CDATA[
+            <b>Pals</b> is a tool for color palettes, with support for palettes generation from your wallpaper, an image, or even a specific color.
+            <br><br>
+            This app was developed by <b><a href="https://jahir.xyz">Jahir Fiquitiva</a></b>.
+            <br><br>
+            Please consider doing a donation to support his works!
+            <br>
+            <br><b>Palettes Credits:</b><br>
+            <a href="https://jahir.xyz/2PfjzpS">Material Color Palettes</a>
+            <br>
+            <a href="https://flatuicolors.com/">Flat UI Color Palettes</a>
+        ]]>
+    </string>
+
+    <string name="donate">Donate</string>
+    <string name="translate">Translate</string>
+    <string name="close">Close</string>
+
+    <string name="settings">Settings</string>
+    <string name="ui_settings_title">User Interface</string>
+    <string name="theme_setting_title">App theme</string>
+    <string name="theme_setting_content">Choose the main theme for the app</string>
+
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="amoled_theme">Amoled</string>
+
+    <string name="navbar_color_setting_title">Color navigation bar</string>
+    <string name="navbar_color_setting_content">Color navigation bar with app\'s primary dark color</string>
+
+    <string name="max_colors_title">Max number of colors</string>
+    <string name="max_colors_summary">Higher values will make decoding slower</string>
+    <string name="default_btn">Default</string>
+
+    <string name="legal">Legal</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+</resources>
