@@ -8,6 +8,7 @@
     <string name="predefined_palettes">Predefined Palettes</string>
     <string name="material_palette">Material Palette</string>
     <string name="flat_ui_palette">Flat UI Palette</string>
+    <string name="css_palette">CSS Colors</string>
 
     <string name="dynamic_palettes">Dynamic Palettes</string>
     <string name="from_wallpaper">From Wallpaper</string>
@@ -24,6 +25,18 @@
     <string name="generator">Shades Generator</string>
     <string name="generator_subtitle">From any color</string>
 
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favorites">Would you like to add "%1$s" to favorites?</string>
+    <string name="remove_from_favorites">Are you sure you want to remove "%1$s" from favorites?</string>
+    <string name="delete_favs">Delete Favorites</string>
+    <string name="delete_favs_title">Delete Favorites</string>
+    <string name="delete_favs_content">Are you sure you want to delete all your favorite colors?</string>
+    <string name="fav_added">Color "%1$s" has been added to favorites!</string>
+    <string name="fav_deleted">Color "%1$s" has been removed from favorites!</string>
+    <string name="favs_deleted">Your favorite colors have been deleted!</string>
+    <string name="no_favs_yet">No favorites added yet!</string>
+    <string name="yes">Yes</string>
+
     <string name="permission_denied">Access to storage permission has been denied</string>
     <string name="permission_denied_completely">Access to storage permission has been denied. You will have to manually enable it in Settings.</string>
     <string name="permission_request">Pals requires access to storage in order to be able to pick images to extract palettes from.</string>
@@ -36,6 +49,9 @@
     <string name="coming_soon">Coming soon!</string>
     <string name="unexpected_error">Unexpected error!</string>
 
+    <string name="changes">Changes</string>
+    <string name="dismiss">Dismiss</string>
+
     <string name="about">About</string>
     <string name="about_content">
         <![CDATA[
@@ -45,10 +61,14 @@
             <br><br>
             Please consider doing a donation to support his works!
             <br>
-            <br><b>Palettes Credits:</b><br>
+            <br><b>Credits:</b><br>
             <a href="https://jahir.xyz/2PfjzpS">Material Color Palettes</a>
             <br>
             <a href="https://flatuicolors.com/">Flat UI Color Palettes</a>
+            <br>
+            <a href="https://www.w3schools.com/cssref/css_colors.asp">CSS Colors</a>
+            <br>
+            Icon designed by <b><a href="https://jacksonhayes.xyz/patryk/">Patryk Goworowski</a></b>
         ]]>
     </string>
 
