@@ -19,4 +19,13 @@
     <string name="generator_subtitle">A partir de qualquer cor</string>
     <string name="favorites">Favoritos</string>
     <string name="add_to_favorites">Você gostaria de adicionar \"%1$s\" aos favoritos?</string>
+    <string name="remove_from_favorites">Tem certeza que vai remover \"%1$s\" dos favoritos?</string>
+    <string name="delete_favs">Deletar os favoritos</string>
+    <string name="delete_favs_title">Deletar os favoritos</string>
+    <string name="delete_favs_content">Tem certeza que vai remover todas as cores favoritas?</string>
+    <string name="fav_added">A cor \"%1$s\" foi adicionada aos favoritos!</string>
+    <string name="fav_deleted">A cor \"%1$s\" foi removida dos favoritos!</string>
+    <string name="favs_deleted">Suas cores favoritas foram deletadas!</string>
+    <string name="no_favs_yet">Nenhum favorito adicionado!</string>
+    <string name="yes">Sim</string>
 </resources>
