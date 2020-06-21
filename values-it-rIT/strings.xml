@@ -42,4 +42,53 @@
     <string name="changes">Modifiche</string>
     <string name="dismiss">Scarta</string>
     <string name="about">Info</string>
+    <string name="about_content"><![CDATA[            <b>Pals</b> è uno strumento per creare palette di colori, supporta la generazione di palette dai tuoi sfondi, un'immagine o un colore specifico.
+            <br><br>
+            Questa app è stata sviluppata da <b><a href="https://jahir.xyz">Jahir Fiquitiva</a></b>.
+            <br><br>
+            Puoi fare una donazione per supportare i suoi lavori!
+            <br>
+            <br><b>Crediti:</b><br>
+            <a href="https://jahir.xyz/2PfjzpS">Palette Material</a>
+            <br>
+            <a href="https://flatuicolors.com/">Palette Flat UI</a>
+            <br>
+            <a href="https://www.w3schools.com/cssref/css_colors.asp">Colori CSS</a>
+            <br>
+            Icone create da <b><a href="https://jacksonhayes.xyz/patryk/">Patryk Goworowski</a></b>
+        ]]></string>
+    <string name="donate">Dona</string>
+    <string name="translate">Traduci</string>
+    <string name="close">Chiudi</string>
+    <string name="settings">Impostazioni</string>
+    <string name="ui_settings_title">Interfaccia Utente</string>
+    <string name="theme_setting_title">Tema dell\'app</string>
+    <string name="theme_setting_content">Scegli il tema principale dell\'app</string>
+    <string name="light_theme">Chiaro</string>
+    <string name="dark_theme">Scuro</string>
+    <string name="amoled_theme">Amoled</string>
+    <string name="navbar_color_setting_title">Colore della barra di navigazione</string>
+    <string name="navbar_color_setting_content">Colora la barra di navigazione con il colore scuro principale</string>
+    <string name="max_colors_title">Numero massimo di colori</string>
+    <string name="max_colors_summary">Valori più alti renderanno la decodifica più lenta</string>
+    <string name="default_btn">Predefinito</string>
+    <string name="legal">Info Legali</string>
+    <string name="privacy_policy">Informativa sulla privacy</string>
+    <string name="terms_conditions">Termini e Condizioni</string>
+    <string name="license_valid_title">Licenza valida</string>
+    <string name="license_valid_content">Grazie per aver scaricato %1$s da un negozio valido. Divertiti!</string>
+    <string name="license_valid_snack">Licenza valida. Grazie per aver scaricato %1$s. Divertiti!</string>
+    <string name="license_invalid_title">Tu non puoi passare!</string>
+    <string name="license_invalid_content">Siamo spiacenti, ma abbiamo rilevato che la tua licenza per %1$s non è valida. Potrebbe essere perché stai usando un\'app pirata. %2$s. Se pensi che si tratti di un errore, riprova più tardi. Altrimenti, scarica l\'app da uno store valido.</string>
+    <string name="license_invalid_content_extra">O specificatamente: l\'app \'%1$s\', quindi per favore disinstallala</string>
+    <string name="error_title">Errore</string>
+    <string name="action_error_content">Siamo spiacenti, si è verificato un errore imprevisto durante il tentativo di completare questa azione.</string>
+    <string name="license_error_content">Siamo spiacenti, si è verificato un errore durante il controllo della licenza. Riprova più tardi.</string>
+    <string name="try_now">Prova ora</string>
+    <string name="donate_success_title">Grazie</string>
+    <string name="donate_success_content">Grazie mille per la tua donazione. Lo apprezzo molto e mi fa piacere che %1$s ti piaccia.</string>
+    <string name="donate_error">Errore imprevisto con il codice %1$s si è verificato a causa di %2$s</string>
+    <string name="donate_error_unknown">ragioni sconosciute</string>
+    <string name="loading">Caricamento…</string>
+    <string name="download">Scarica</string>
 </resources>
