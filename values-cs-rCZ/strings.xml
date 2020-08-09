@@ -6,8 +6,8 @@
     <string name="color_copied_x">Zkopírovaná barva: %1$s</string>
     <string name="predefined_palettes">Předdefinované palety</string>
     <string name="material_palette">Paleta barev Material Design</string>
-    <string name="flat_ui_palette">Paleta plochého UI</string>
-    <string name="css_palette">CSS barvy</string>
+    <string name="flat_ui_palette">Flat UI Palette</string>
+    <string name="css_palette">CSS Colors</string>
     <string name="dynamic_palettes">Dynamické palety</string>
     <string name="from_wallpaper">Z tapety</string>
     <string name="from_file">Z obrázku</string>
@@ -73,8 +73,8 @@
     <string name="max_colors_summary">Vyšší hodnoty zpomalí dekódování</string>
     <string name="default_btn">Výchozí</string>
     <string name="legal">Právní ustanovení</string>
-    <string name="privacy_policy">Zásady ochrany osobních údajů</string>
-    <string name="terms_conditions">Podmínky užití</string>
+    <string name="privacy_policy">Zásady ochrany osobních údajů (anglicky)</string>
+    <string name="terms_conditions">Podmínky užití (anglicky)</string>
     <string name="license_valid_title">Licence je platná</string>
     <string name="license_valid_content">Děkujeme Vám za řádné stažení aplikace %1$s z oficiálního obchodu. Užijte si ji!</string>
     <string name="license_valid_snack">Licence je platná. Děkujeme Vám za stažení aplikace %1$s. Užijte si ji!</string>
