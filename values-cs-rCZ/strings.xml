@@ -64,6 +64,8 @@
     <string name="license_valid_content">Děkujeme Vám za řádné stažení aplikace %1$s z oficiálního obchodu. Užijte si ji!</string>
     <string name="license_valid_snack">Licence je platná. Děkujeme Vám za stažení aplikace %1$s. Užijte si ji!</string>
     <string name="license_invalid_title">Neprojdeš!</string>
+    <string name="license_invalid_content">Omlouváme se, ale zjistili jsme, že Vaše licence pro aplikaci %1$s není platná. Může to být způsobeno tím, že používáte pirátské aplikace. %2$s. Pokud si myslíte, že se jedná o chybu, zkuste to prosím později. V opačném případě aplikaci stáhněte z oficiálního obchodu.</string>
+    <string name="license_invalid_content_extra">Nebo konkrétně aplikaci: „%1$s“, takže ji prosím odinstalujte</string>
     <string name="error_title">Chyba</string>
     <string name="action_error_content">Omlouváme se, při snaze o dokončení této akce došlo k neočekávané chybě.</string>
     <string name="try_now">Zkusit teď</string>
