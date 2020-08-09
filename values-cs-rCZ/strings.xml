@@ -32,8 +32,11 @@
     <string name="yes">Ano</string>
     <string name="permission_denied">Přístup k úložišti byl odepřen</string>
     <string name="permission_denied_completely">Přístup k úložišti byl odepřen. Budete jej muset manuálně povolit v Nastavení.</string>
+    <string name="permission_request">Pals vyžaduje přístup k úložišti, aby bylo možné vybrat obrázky pro vyextrahování palet.</string>
     <string name="allow">Povolit</string>
     <string name="camera_permission_denied">Přístup k fotoaparátu byl odepřen</string>
+    <string name="camera_permission_denied_completely">Přístup k fotoaparátu byl odepřen. Budete jej muset manuálně povolit v Nastavení.</string>
+    <string name="camera_permission_request">Pals vyžaduje přístup k fotoaparátu, aby mohl pořizovat fotografie a používat je k vyextrahování palet.</string>
     <string name="coming_soon">Již brzy!</string>
     <string name="unexpected_error">Neočekávaná chyba!</string>
     <string name="changes">Změny</string>
@@ -49,6 +52,8 @@
     <string name="light_theme">Světlý</string>
     <string name="dark_theme">Tmavý</string>
     <string name="amoled_theme">AMOLED</string>
+    <string name="navbar_color_setting_title">Barevný navigační panel</string>
+    <string name="navbar_color_setting_content">Barevný navigační panel s primární tmavou barvou aplikace</string>
     <string name="max_colors_title">Maximální počet barev</string>
     <string name="max_colors_summary">Vyšší hodnoty zpomalí dekódování</string>
     <string name="default_btn">Výchozí</string>
