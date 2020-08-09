@@ -5,4 +5,23 @@
     <string name="color_copied_x">Zkopírovaná barva: %1$s</string>
     <string name="material_palette">Paleta barev Material Design</string>
     <string name="css_palette">CSS barvy</string>
+    <string name="dynamic_palettes">Dynamické palety</string>
+    <string name="from_wallpaper">Z tapety</string>
+    <string name="from_file">Z obrázku</string>
+    <string name="pick_file">@string/pick_image</string>
+    <string name="take_photo">Pořídit fotografii</string>
+    <string name="pick_image">Vybrat obrázek</string>
+    <string name="no_pictures_found">Nebyly nalezeny žádné obrázky</string>
+    <string name="pick_image_error">Při výběru obrázku došlo k neočekávané chybě.</string>
+    <string name="file_manager_error">Není nainstalován vhodný správce souborů.</string>
+    <string name="generator">Generátor odstínů</string>
+    <string name="generator_subtitle">Z libovolné barvy</string>
+    <string name="favorites">Oblíbené</string>
+    <string name="add_to_favorites">Přejete si přidat „%1$s“ do oblíbených?</string>
+    <string name="remove_from_favorites">Opravdu si přejete odstranit „%1$s“ z oblíbených?</string>
+    <string name="delete_favs">Vymazat Oblíbené</string>
+    <string name="delete_favs_title">Vymazat Oblíbené</string>
+    <string name="delete_favs_content">Opravdu si přejete odstranit všechny své oblíbené barvy?</string>
+    <string name="fav_added">Barva „%1$s“ byla přidána mezi oblíbené!</string>
+    <string name="fav_deleted">Barva „%1$s“ byla odstraněna z oblíbených!</string>
 </resources>
