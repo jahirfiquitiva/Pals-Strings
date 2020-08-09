@@ -42,6 +42,21 @@
     <string name="changes">Změny</string>
     <string name="dismiss">Zrušit</string>
     <string name="about">O aplikaci</string>
+    <string name="about_content"><![CDATA[            <b>Pals</b> je nástroj pro tvoření palet barev s podporou generování palet z vaší tapety, obrázku nebo dokonce z konkrétní barvy.
+            <br><br>
+            Tato aplikace byla vyvinuta vývojářem <b><a href="https://jahir.xyz">Jahir Fiquitiva</a></b>.
+            <br><br>
+            Zvažte prosím, zda byste nepřispěli na podporu jeho děl!
+            <br>
+            <br><b>Zásluhy a poděkování:</b><br>
+            <a href="https://jahir.xyz/2PfjzpS">Palety barev Material Design</a>
+            <br>
+            <a href="https://flatuicolors.com/">Palety Flat UI Colors</a>
+            <br>
+            <a href="https://www.w3schools.com/cssref/css_colors.asp">CSS Colors</a>
+            <br>
+            Ikony navrženy vývojářem <b><a href="https://jacksonhayes.xyz/patryk/">Patryk Goworowski</a></b>
+        ]]></string>
     <string name="donate">Přispět</string>
     <string name="translate">Přeložit</string>
     <string name="close">Zavřít</string>
@@ -68,8 +83,10 @@
     <string name="license_invalid_content_extra">Nebo konkrétně aplikaci: „%1$s“, takže ji prosím odinstalujte</string>
     <string name="error_title">Chyba</string>
     <string name="action_error_content">Omlouváme se, při snaze o dokončení této akce došlo k neočekávané chybě.</string>
+    <string name="license_error_content">Omlouváme se, při kontrole vaší licence došlo k chybě. Zkuste to prosím znovu později.</string>
     <string name="try_now">Zkusit teď</string>
     <string name="donate_success_title">Děkujeme</string>
+    <string name="donate_success_content">Děkuji Vám mnohokrát za Váš příspěvek. Cením si jej, a jsem rád, že Vám %1$s dělá radost!</string>
     <string name="donate_error">Neočekávaná chyba s kódem %1$s nastala z %2$s</string>
     <string name="donate_error_unknown">neznámých důvodů</string>
     <string name="loading">Načítání…</string>
