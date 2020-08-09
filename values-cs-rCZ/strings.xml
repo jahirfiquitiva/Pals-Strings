@@ -32,8 +32,27 @@
     <string name="yes">Ano</string>
     <string name="permission_denied">Přístup k úložišti byl odepřen</string>
     <string name="permission_denied_completely">Přístup k úložišti byl odepřen. Budete jej muset manuálně povolit v Nastavení.</string>
+    <string name="coming_soon">Již brzy!</string>
+    <string name="unexpected_error">Neočekávaná chyba!</string>
+    <string name="changes">Změny</string>
+    <string name="dismiss">Zrušit</string>
     <string name="about">O aplikaci</string>
     <string name="donate">Přispět</string>
     <string name="translate">Přeložit</string>
     <string name="close">Zavřít</string>
+    <string name="settings">Nastavení</string>
+    <string name="ui_settings_title">Uživatelské rozhraní</string>
+    <string name="theme_setting_title">Motiv aplikace</string>
+    <string name="theme_setting_content">Vyberte si hlavní motiv aplikace</string>
+    <string name="light_theme">Světlý</string>
+    <string name="dark_theme">Tmavý</string>
+    <string name="amoled_theme">AMOLED</string>
+    <string name="max_colors_title">Maximální počet barev</string>
+    <string name="max_colors_summary">Vyšší hodnoty zpomalí dekódování</string>
+    <string name="default_btn">Výchozí</string>
+    <string name="legal">Právní ustanovení</string>
+    <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="terms_conditions">Podmínky užití</string>
+    <string name="license_valid_title">Licence je platná</string>
+    <string name="license_valid_content">Děkujeme Vám za řádné stažení aplikace %1$s z oficiálního obchodu. Užijte si ji!</string>
 </resources>
